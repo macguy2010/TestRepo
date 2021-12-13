@@ -1,2 +1,4 @@
 file2
 Adding something
+
+Updating file2 locally
