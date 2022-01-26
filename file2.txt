@@ -1,3 +1,4 @@
 file2
 Added by Alice
 Added by Alice again
+Added by Bob
