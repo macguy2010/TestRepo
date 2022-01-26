@@ -1,4 +1,1 @@
 file1
-something new
-
-Adding a line
